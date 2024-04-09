@@ -1,0 +1,9 @@
+version: 1
+
+deploy:
+  steps:
+    terraformPlan:
+      before:
+        - echo "before plan"
+      after:
+        - echo "after plan"
