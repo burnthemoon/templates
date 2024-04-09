@@ -1,1 +1,0 @@
-A template used to simulate a failure using the `SHOULD_PASS` environment variable.
